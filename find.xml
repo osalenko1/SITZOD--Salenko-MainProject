@@ -1,0 +1,9 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '[test] - ...\src\test\java\pages\HomePage.java'" />
+    <option name="defaultScopeName" value="File '[test] - ...\src\test\java\pages\HomePage.java'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="File '[test] - ...\src\test\java\pages\HomePage.java'" />
+  </component>
+</application>

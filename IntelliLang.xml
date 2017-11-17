@@ -1,0 +1,12 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JAVA" injector-id="xml">
+      <display-name>dependencies</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("dependencies")).withNamespace(string().equalTo("http://maven.apache.org/POM/4.0.0"))]]></place>
+    </injection>
+    <injection language="JAVA" injector-id="xml">
+      <display-name>project</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("project")).withNamespace(string().equalTo("http://maven.apache.org/POM/4.0.0"))]]></place>
+    </injection>
+  </component>
+</application>
